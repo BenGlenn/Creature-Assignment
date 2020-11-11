@@ -1,0 +1,121 @@
+#anchorpoint {
+    margin-top: 205px;
+    margin-right: 250px;
+    margin-bottom: 200px;
+    margin-left: 487px;
+    width: 75px;
+    height: 75px;
+    z-index: 1;
+    border: solid 2px black;
+    /* background-color: rgb(90, 238, 255); */
+    border-radius: 55px;
+}
+
+.body {
+    position: static;
+    width: 200px;
+    height: 450px;
+    border: solid 2px black;
+    background-color: rgb(40, 216, 178);
+    border-radius: 522px;
+}
+
+.center-eye {
+    margin-top: 25%;
+    margin-left: 11%;
+    width: 150px;
+    height: 180px;
+    border: solid 4px black;
+    background-color: rgb(222, 230, 159);
+    border-radius: 522px;
+}
+
+.right-eye {
+    margin-top: 27%;
+    margin-left: 24%;
+    width: 99px;
+    height: 97px;
+    border: solid 1px black;
+    background-color: rgb(255, 0, 0);
+    border-radius: 522px;
+}
+
+.white-eye {
+    margin-top: 45%;
+    margin-left: 51%;
+    width: 20px;
+    height: 26px;
+    /* border: solid 2px black; */
+    background-color: rgb(255, 255, 255);
+    border-radius: 522px;
+}
+
+.mouth {
+    margin-top: 8%;
+    margin-left: 17%;
+    width: 133px;
+    height: 135px;
+    border: solid 4px black;
+    background-color: rgb(151, 53, 53);
+    border-radius: 15px 15px 180px 180px;
+}
+
+.teeth {
+    margin-top: -4%;
+    margin-left: -2%;
+    width: 133px;
+    height: 33px;
+    border: solid 4px black;
+    background-color: rgb(250, 250, 250);
+    border-radius: 15px 15px 71px 68px;
+}
+
+.tong {
+    margin-top: 28%;
+    margin-left: 32%;
+    width: 51px;
+    height: 20px;
+    border: solid 4px black;
+    background-color: rgb(247, 6, 6);
+    border-radius: 180px 180px 1px 1px;
+}
+
+.r-leg {
+    margin-top: 35px;
+    margin-left: 45px;
+    width: 19px;
+    height: 50px;
+    border: solid .5px black;
+    background-color: rgb(40, 216, 178);
+    border-radius: 522px;
+}
+
+.l-leg {
+    margin-top: -55px;
+    margin-left: 141px;
+    width: 18px;
+    height: 46px;
+    border: solid .5px black;
+    background-color: rgb(40, 216, 178);
+    border-radius: 522px;
+}
+
+.left-tent {
+    margin-top: -150px;
+    margin-left: 153px;
+    width: 5px;
+    height: 150px;
+    border: solid .5px black;
+    background-color: rgb(40, 216, 178);
+    border-radius: 522px;
+}
+
+.right-tent {
+    margin-top: -600px;
+    margin-left: 34px;
+    width: 5px;
+    height: 150px;
+    border: solid .5px black;
+    background-color: rgb(40, 216, 178);
+    border-radius: 522px;
+}
